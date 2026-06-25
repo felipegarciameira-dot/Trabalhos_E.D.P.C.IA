@@ -1,0 +1,1 @@
+const botao = window.document.getElementById("saiba_mais")
